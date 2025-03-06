@@ -1,4 +1,4 @@
-AutoRAG[parse]==0.3.12
+AutoRAG[parse]==0.3.13
 AutoRAG[ko]==0.3.12
 pydantic<2.10.0
 jwt
