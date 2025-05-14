@@ -6,6 +6,6 @@ quart-cors
 Werkzeug
 quart-uploads
 uvicorn
-redis==4.5.1
+redis==6.1.0
 celery==5.2.7
 flower==1.2.0
